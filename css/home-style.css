@@ -205,7 +205,7 @@ nav {
 }
 
 .overlay-menu {
-  overflow: hidden;
+  overflow: scroll;
 }
 
 .overlay-menu::-webkit-scrollbar {
